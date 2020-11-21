@@ -4,11 +4,15 @@
 
 
 
+
+
 #### 주최/주관
 
 ------
 
 ​	한국정보화진흥원 / 미디어젠
+
+
 
 
 
@@ -20,11 +24,15 @@
 
 
 
+
+
 #### 사용 모델
 
 ------
 
 ​	KoELECTRA
+
+
 
 
 
@@ -42,9 +50,13 @@
 
 
 
+
+
 #### GPU
 
 ​	GTX 1060 6GB
+
+
 
 
 
@@ -63,6 +75,8 @@ fastprogress==1.0.0
 
 
 
+
+
 #### 결과
 
 ------
@@ -71,13 +85,19 @@ fastprogress==1.0.0
 
   - 5epoch, 11500 step. (acc 기준 0.38 ~ 0.39 에서 상승 기미가 안보여서 중단)
 
-  
+
+
+
+
 
 - 실제 제출 결과
 
-  ![](D:\mzcec\적중률.JPG)
+  ![](https://github.com/siasky21/MZ_CEC_Hackathon/blob/main/img/result.JPG)
 
-  
+
+
+
+
 
 #### References
 

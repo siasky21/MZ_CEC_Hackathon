@@ -94,7 +94,7 @@ fastprogress==1.0.0
 - 실제 제출 결과
 
   ![](https://github.com/siasky21/MZ_CEC_Hackathon/blob/main/img/result.JPG)
-  - Baseline 보다 각각 11%, 12% 
+  - Baseline 보다 각각 11%, 12% 향상
 
 
 

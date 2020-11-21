@@ -85,15 +85,16 @@ fastprogress==1.0.0
 
   - 5epoch, 11500 step. (acc 기준 0.38 ~ 0.39 에서 상승 기미가 안보여서 중단)
 
-
-
-
+- 기존 baseline (주관측 학습)
+  
+  - Albert로 학습
+  - 대분류 50%, 소분류 30%
 
 
 - 실제 제출 결과
 
   ![](https://github.com/siasky21/MZ_CEC_Hackathon/blob/main/img/result.JPG)
-
+  - Baseline 보다 각각 11%, 12% 
 
 
 
